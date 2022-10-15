@@ -1,7 +1,7 @@
 ## Javascript Interview prepation 
 Most of the javascript is covered in the questions; an idea of the topics is below. If you have any questions or you want to add anything, please do contribute 
 
-# An Introduction to JavaScript
+### An Introduction to JavaScript
 # Manuals and specifications
 # Code editors
 # Developer console

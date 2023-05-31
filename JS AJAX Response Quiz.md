@@ -1,3 +1,4 @@
+
 # 📝 Introduction
 
 AJAX (Asynchronous JavaScript and XML) is a popular technique used in web development to create faster, more dynamic web pages. With AJAX, web pages can update content without having to reload the entire page. One of the key features of AJAX is the ability to send and receive data asynchronously using JavaScript. In this article, we'll cover 20 multiple-choice questions related to JavaScript AJAX requests.
@@ -28,3 +29,4 @@ Here are the first three questions along with their answer and options:
 # 🔍 Conclusion
 
 We hope these questions helped you test your knowledge of JavaScript AJAX requests! We covered topics like the meaning of AJAX, how to create an AJAX request, and the purpose of the readyState property. If you want to test your skills further, head over to [Skillstest](skillstest.me) for more questions on this topic.
+

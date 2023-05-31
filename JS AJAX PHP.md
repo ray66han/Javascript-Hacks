@@ -1,3 +1,4 @@
+
 # 🌐 Introduction
 
 AJAX (Asynchronous JavaScript and XML) is a technique used in web development that allows data to be transferred between a client and a server asynchronously without requiring the page to be reloaded. PHP is a server-side scripting language that can handle data from web forms and other sources, generate dynamic page content, and interact with databases. When combined, AJAX and PHP create a powerful tool for building dynamic web applications.
@@ -79,3 +80,4 @@ Thank you for reading! 😊
 If you have any questions, comments, or feedback on this blog post, I'd love to hear from you! You can reach me on LinkedIn [Rayan Ch.](https://www.linkedin.com/in/rayan-ch-b787ab224/) or by email at [mo@gglink.uk](mailto:mo@gglink.uk).
 
 Thanks for reading! 😊
+

@@ -1,3 +1,4 @@
+
 # 🌐 Using AJAX to Load XML Files in JavaScript
 
 In web development, AJAX (Asynchronous JavaScript and XML) is a technique used to communicate with a server without having to refresh the entire web page. XML files are commonly used for data storage and transfer, and can be loaded into a web page using AJAX. In this blog post, we will cover how to load XML files using AJAX in JavaScript.
@@ -54,6 +55,7 @@ xhttp.onreadystatechange = function() {
 In conclusion, AJAX can be used to load XML files into a web page without having to refresh the entire page. This can improve the user experience and make the application more responsive. The steps to load an XML file using AJAX in JavaScript involve creating an instance of the `XMLHttpRequest` object, using the `open` method to specify the HTTP method and URL, using the `onreadystatechange` event to detect when the request has completed, using the `send` method to send the request to the server, and using the `responseXML` property to access the XML data.
 
 ## 📣 Share your feedback
+
 
 If you have any questions, comments, or feedback on this blog post, I'd love to hear from you! You can reach me on LinkedIn [Rayan Ch.](https://www.linkedin.com/in/rayan-ch-b787ab224/) or by email at [mo@gglink.uk](mailto:mo@gglink.uk).
 

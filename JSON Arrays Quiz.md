@@ -34,3 +34,4 @@ Feel free to ponder over these questions and take a moment to think about the co
 JSON arrays are a fundamental part of working with JSON data. They allow us to store and organize multiple values efficiently. By understanding their structure, accessing elements, and separating values, we gain the ability to manipulate JSON arrays effectively in our programs.
 
 If you're interested in learning more about JSON arrays and other programming concepts, make sure to visit [Skillstest](skillstest.me) for comprehensive skill assessments and practice resources.
+
